@@ -25,6 +25,7 @@
       <div id="source-button" class="btn btn-primary btn-xs" style="display: none;">&lt; &gt;</div></div>
     <router-view/>
   </div>
+  
 </template>
 <script>
 export default {
@@ -32,7 +33,4 @@ export default {
 }
 </script>
 <style>
-#app {
-  
-}
 </style>
