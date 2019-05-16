@@ -1,5 +1,4 @@
 <template>
-  <div class="contact">
     <div class="bs-component">
       <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
           <a class="navbar-brand" href="#">Navbar</a>
@@ -24,19 +23,9 @@
       </nav>
       <div id="source-button" class="btn btn-primary btn-xs" style="display: none;">&lt; &gt;</div>
     </div>
-    <h1>Contact</h1>
-  </div>
 </template>
 <script>
-export default {
-  name: 'contact',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  }
-}
+	export default{
+		
+	}
 </script>
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-</style>
